@@ -2,7 +2,7 @@
 
 int main() {
     int suma = 0;
-    long long producto = 1; // Usamos long long para evitar desbordamiento
+    long long producto = 1;
 
     for (int i = 20; i <= 400; i++) {
         suma += i;
